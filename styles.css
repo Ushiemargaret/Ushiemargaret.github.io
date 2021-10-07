@@ -1,0 +1,39 @@
+
+.container-fluid .upwards{
+    position: relative;
+}
+.cake{
+    position: absolute;
+    top: 200px;
+    color: blueviolet;
+    left: 10px;
+}
+.search-icon{
+    position: absolute;
+    left: 360px;
+    background-color: yellow;
+}
+.card-img-top{
+    padding: 30px;
+}
+.row.cakees{
+    padding-top: 80px;
+}
+.row.services{
+    background-color: aliceblue;
+}
+h4{
+    color: blueviolet;
+}
+.card-title{
+    color: blueviolet;
+}
+.bottom-container{
+    text-align: center;
+}
+.footer-link{
+    margin-left: 40px;
+}
+.btn{
+    margin-left: 40px;
+}
